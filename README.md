@@ -1,5 +1,3 @@
-# Hi there, I'm Delron.
-
-Cybersecurity & Network Engineer👨🏻‍💻<br/>
+# Cybersecurity & Network Engineer👨🏻‍💻<br/>
 
 
