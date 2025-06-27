@@ -13,4 +13,4 @@ I'm a student passionate about cybersecurity and network systems, currently work
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delron01&show_icons=true&theme=radical)
+
