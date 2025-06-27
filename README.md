@@ -9,8 +9,8 @@ I'm a student passionate about cybersecurity and network systems, currently work
 - 🔭 Currently working on: [My personal website](https://yourwebsite.com)
 - 🎓 Studying: Electrical Engineering & Cybersecurity
 - 🛠 Skills: Python, Linux, Wireshark, Networking, Ethical Hacking
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:you@example.com)
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/delron-t-hwingwiri-48b617331) | [Email](delronthwingwiri@gmail.com)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelronH&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delron01&show_icons=true&theme=radical)
