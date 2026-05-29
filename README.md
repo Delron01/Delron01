@@ -1,14 +1,12 @@
 ## Hi, I'm Delron 👋🏾
 
-*Cybersecurity Specialist | Network Engineer | Future Tech Founder*
+*Electrical Engineer | Freelance technologist | Future Tech Founder*
 
-I'm a student passionate about cybersecurity and network systems, currently working toward building my own tech company. I enjoy building secure digital experiences and helping others learn about tech.
+As a third year student in Electrical and Electronics Engineering, I’ve developed a deep interest in the dynamic world of cybersecurity and networking. I'm actively pursuing certifications to build the skills needed for a career in this field, while continuously challenging myself to bridge the gap between theory and real-world application. The journey hasn't been without its challenges, but I embrace each one as an opportunity to grow, staying curious, resilient, and committed. My ultimate goal is to launch my own tech company focused on providing cutting-edge security solutions to businesses and organizations. Every step I take today is driven by that vision.
 
 ---
 
-- 🔭 Currently working on: [Enigma](https://yourwebsite.com)
 - 🎓 Studying: Electrical Engineering & Cybersecurity
-- 🛠 Skills: Python, Linux, Wireshark, Networking, Ethical Hacking
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/delron-t-hwingwiri-48b617331) | [Email](delronthwingwiri@gmail.com)
 
 ---
