@@ -7,7 +7,7 @@ As a third year student in Electrical and Electronics Engineering, I’ve develo
 ---
 
 - 🎓 Studying: Electrical Engineering & Cybersecurity
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/delron-t-hwingwiri-48b617331) | [Email](delronthwingwiri@gmail.com)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/delronh) | [Email](delronthwingwiri@gmail.com)
 
 ---
 
